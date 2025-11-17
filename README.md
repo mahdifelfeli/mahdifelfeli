@@ -18,3 +18,11 @@ I am passionate about building complete, data-driven systems—from training com
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ...
+---
+
+### 🌱 My Core Competencies
+
+* Building scalable, database-driven web applications with **Django**.
+* Designing and training deep learning models for **Computer Vision** tasks.
+* Creating high-performance **RESTful APIs** with Django REST Framework.
+* Developing and deploying end-to-end **Machine Learning pipelines**.
