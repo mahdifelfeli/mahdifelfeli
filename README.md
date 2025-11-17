@@ -1,9 +1,5 @@
 # Hi there, I'm Mahdi 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdifelfeli&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Mahdi's GitHub Stats" />
-</p>
-
 ---
 
 I'm a **Python Developer** with a strong background in Artificial Intelligence and Computer Vision. I love solving complex problems, whether it's building a neural network or designing a scalable backend API.
@@ -36,4 +32,4 @@ Here are the technologies I work with:
 
 * Building and deploying scalable **Django** applications.
 * Creating high-performance **RESTful APIs** with Django REST Framework (DRF).
-* Integrating complex **AI/CV models** (like YOLO and U²-Net) into production-ready web services.
+* Integrating complex **AI/CV models** into production-ready web services.
