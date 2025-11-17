@@ -34,3 +34,7 @@ Here are the technologies I work with:
 * Designing and training deep learning models for **Computer Vision** tasks.
 * Creating high-performance **RESTful APIs** with Django REST Framework.
 * Developing and deploying end-to-end **Machine Learning pipelines**.
+
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/mahdi-felfeli-6a24392b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
