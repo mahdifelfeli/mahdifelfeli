@@ -37,4 +37,6 @@ Here are the technologies I work with:
 
 ### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-felfeli-6a24392b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 📫 How to Reach Me
+
+* **LinkedIn:** [mahdi-felfeli-6a24392b5](https://www.linkedin.com/in/mahdi-felfeli-6a24392b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
